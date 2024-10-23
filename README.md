@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hafidzNurudienn
 - 👀 I’m interested in Web Programming, Network Engineering and Cloud Computing
 - 🌱 I’m currently learning React.JS, Next.JS, and Laravel
-🤩 Welcome to my GitHub 🤩
+- 🤩 Welcome to my GitHub 🤩 -
 
 <!---
 hafidzNurudienn/hafidzNurudienn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
