@@ -12,7 +12,7 @@
  
  🔭 I’m currently working as a **Backend Programmer** Intern at Imajiku Web Dev.
  
- 🌱 I’m currently learning **React.JS, Next.JS, Laravel**
+ 🌱 I’m currently learning **React.JS, Next.JS, Laravel and many more**
 
 💬 Ask me [here](https://github.com/hafidzNurudienn/hafidzNurudienn/issues)**
 
