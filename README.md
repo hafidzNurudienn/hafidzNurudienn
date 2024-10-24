@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working as a **Web Development** Intern at Imajiku Web Dev.
+ 🔭 I’m currently working as a **Backend Programmer** Intern at Imajiku Web Dev.
  
  🌱 I’m currently learning **React.JS, Next.JS, Laravel**
 
